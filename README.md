@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1400" height="300" src=[https://github.com/G0NZAL01/G0NZAL01/blob/main/LOGO.png]>
+  <img width="1400" height="300" src=https://github.com/G0NZAL01/G0NZAL01/blob/078bacad416610dfeb73632f14f09ceddce067b5/LOGO.png>
 </p>
 <p align="center"> 
   
