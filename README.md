@@ -10,7 +10,7 @@
     <h1 style="font-size: 24px; margin-bottom: 16px; color: pink;">Skills<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9b8_1f3fb/512.gif" alt="🦸" width="32" height="32"></h1>
     <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
         <!-- Iconos de habilidades -->
-        <img src="https://skillicons.dev/icons?i=python,html,css,js,github,linux,arduino,vscode,java,kali,ubuntu,wordpress&perline=8"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,python,docker,github,arduino,linux,vscode,kali,ubuntu,wordpress&perline=8"/>
     </div>
 </div>
 
