@@ -3,13 +3,6 @@
   <p><img width="900" height="300" src="https://github.com/G0NZAL01/G0NZAL01/blob/078bacad416610dfeb73632f14f09ceddce067b5/LOGO.png"></p>
 </div>
 
-<!-- Redes Sociales -->
-<div align="center">
-    <a href="[[www.linkedin.com/in/gonz4lo](https://www.linkedin.com/in/gonz4lo/))" style="text-decoration: none">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=red">
-    </a>
-</div>
-
 <hr/>
 
 <!-- Habilidades -->
