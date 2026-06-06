@@ -18,7 +18,7 @@
 
 <!-- Stats GitHub -->
 <div align="center">
-  <h2 align="center">Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=G0NZAL01&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="450" height="200" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0NZAL01&layout=compact&theme=tokyonight&hide_border=true" width="400" height="200" />
+  <h2>Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=G0NZAL01&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&v=1" width="450" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0NZAL01&layout=compact&theme=tokyonight&hide_border=true&v=1" width="400" height="200" />
 </div>
